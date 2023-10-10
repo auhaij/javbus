@@ -7,7 +7,7 @@ except:
     pass
 from lxml import etree
 
-cookie = os.environ.get("cookie_javbus")
+cookie = "existmag=mag; 4fJN_2132_saltkey=VI4zzj5z; 4fJN_2132_lastvisit=1694928941; 4fJN_2132_lastcheckfeed=319004%7C1694932549; 4fJN_2132_nofavfid=1; 4fJN_2132_smile=4D1; 4fJN_2132_fastpostrefresh=1; 4fJN_2132_ulastactivity=5c3ftabU2WHjmH6n8rHUjhfmXi%2BIw9PCB0mreTuDHd2iykoLUazf; 4fJN_2132_auth=6d2abPEBOtYb28CxsG5NdQ7VX1uA0mafRQe0Ogz4zNnsl0peTGCjKFX2AgLSwlZTDCrkor3x%2F2tdxiP5n3%2FFtL973VU; PHPSESSID=kp6vfvmhe5h0tii5j7dnv4kgi6; 4fJN_2132_home_diymode=1; 4fJN_2132_st_p=319004%7C1696931335%7Ca7bcddcba61545a478da9826f5040054; 4fJN_2132_viewid=tid_109938; 4fJN_2132_visitedfid=2D36D37; 4fJN_2132_st_t=319004%7C1696931947%7Cd91f7f9c3248dec2764cac37ac0ad458; 4fJN_2132_forum_lastvisit=D_37_1696927476D_2_1696931947; 4fJN_2132_checkpm=1; 4fJN_2132_sid=o554V4; 4fJN_2132_lip=172.71.134.97%2C1696931947; 4fJN_2132_lastact=1696932619%09home.php%09misc; 4fJN_2132_sendmail=1"
 
 def run(*arg):
     msg = ""
