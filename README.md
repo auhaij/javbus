@@ -2,7 +2,7 @@
 ### javbus论坛每日签到 <br>
 根据https://github.com/leeairw/Enshan 项目修改而来
 
-
+·1
 ### 使用方法<br> 
 Github Actions版本<br>
 1.点击项目右上角的Fork，Fork此项目<br>
