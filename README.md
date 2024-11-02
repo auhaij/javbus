@@ -1,6 +1,6 @@
 
 # javbus
-2024年8月4日
+2024年11月2日
 ### javbus论坛每日签到 <br>
 根据https://github.com/leeairw/Enshan 项目修改而来
 
